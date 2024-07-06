@@ -14,10 +14,10 @@ This project focuses on developing an automated system for detecting and suppres
 7. [License](#license)
 
 ### Introduction
-The Automated Fire Detection and Suppression System is designed to detect fires using sensors and activate suppression mechanisms to control and extinguish the fire. The system leverages machine learning for accurate fire detection and integrates with hardware components for real-time response. This project demonstrates a practical application of IoT, machine learning, and automation technologies to enhance fire safety.
+The Automated Fire Detection and Suppression System is designed to detect fires using Camera and activate suppression mechanisms to control and extinguish the fire. The system leverages YOLOV8 Architecture for accurate fire detection and integrates with hardware components for real-time response. This project demonstrates a practical application of IoT, machine learning, and automation technologies to enhance fire safety.
 
 ### Features
-- Real-time fire detection using sensors
+- Real-time fire detection using camera
 - Machine learning algorithms for accurate detection
 - Automatic activation of fire suppression mechanisms
 - Integration with hardware components
